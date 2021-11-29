@@ -9,7 +9,7 @@
 * [**Other**](https://github.com/i-galimov/libft/tree/main/libft)
 ---
 ### [Пример кода](https://github.com/i-galimov/libft/blob/main/libft/ft_memcpy.c) 
-> *Все точное — коротко*
+> *Все точное — коротко...*
 ```
 void	*ft_memcpy(void *dst, const void *src, size_t n)
 {
