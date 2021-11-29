@@ -1,6 +1,6 @@
 # Проект Libft
 
-### Файлы "Либы"
+### Файлы с бонусами
 > *Оригинальная мысль? Нет ничего легче. Библиотеки просто набиты ими. (Лжец)*
 * [**Makefile**](https://github.com/i-galimov/libft/blob/main/libft/Makefile)
 * [**Header**](https://github.com/i-galimov/libft/blob/main/libft/libft.h)
