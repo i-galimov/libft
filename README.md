@@ -30,4 +30,4 @@ void	*ft_memcpy(void *dst, const void *src, size_t n)
 > ***Есть только одно действительно неистощимое сокровище — это большая библиотека.
 Пьер Буаст (1765–1824) — французский лексикограф***
 > 
-![Библиотека](https://cdn.pixabay.com/photo/2016/09/08/22/43/books-1655783_1280.jpg)
+![Библиотека](https://media.proglib.io/wp-uploads/2019/02/books-lit@2x-e1550903308223.jpg)
